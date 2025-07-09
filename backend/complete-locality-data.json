@@ -1,0 +1,354 @@
+{
+  "neighborhoods": [
+    {
+      "city": "Ahmedabad (Gujarat)",
+      "localities": [
+        {
+          "name": "Satellite",
+          "type": "Urban",
+          "population": 320000,
+          "violentCrimes": 120,
+          "rateOfViolentCrimes": 18.5,
+          "chargesheetingRate": 78.5,
+          "publicTransportAccess": true,
+          "parks": 3,
+          "schools": 5,
+          "petFriendly": true,
+          "walkable": "High",
+          "averageRent": 24000,
+          "averageHomePrice": 7500000
+        },
+        {
+          "name": "Vastrapur",
+          "type": "Urban",
+          "population": 315000,
+          "violentCrimes": 110,
+          "rateOfViolentCrimes": 19.7,
+          "chargesheetingRate": 81.0,
+          "publicTransportAccess": true,
+          "parks": 2,
+          "schools": 4,
+          "petFriendly": true,
+          "walkable": "Medium",
+          "averageRent": 26000,
+          "averageHomePrice": 8500000
+        }
+      ]
+    },
+    {
+      "city": "Bengaluru (Karnataka)",
+      "localities": [
+        {
+          "name": "Indiranagar",
+          "type": "Urban",
+          "population": 410000,
+          "violentCrimes": 180,
+          "rateOfViolentCrimes": 33.0,
+          "chargesheetingRate": 61.2,
+          "publicTransportAccess": true,
+          "parks": 4,
+          "schools": 6,
+          "petFriendly": true,
+          "walkable": "High",
+          "averageRent": 45000,
+          "averageHomePrice": 13000000
+        },
+        {
+          "name": "Whitefield",
+          "type": "Urban",
+          "population": 390000,
+          "violentCrimes": 150,
+          "rateOfViolentCrimes": 32.0,
+          "chargesheetingRate": 60.5,
+          "publicTransportAccess": true,
+          "parks": 3,
+          "schools": 5,
+          "petFriendly": true,
+          "walkable": "Medium",
+          "averageRent": 38000,
+          "averageHomePrice": 11000000
+        }
+      ]
+    },
+    {
+      "city": "Chennai (Tamil Nadu)",
+      "localities": [
+        {
+          "name": "Adyar",
+          "type": "Urban",
+          "population": 380000,
+          "violentCrimes": 95,
+          "rateOfViolentCrimes": 12.0,
+          "chargesheetingRate": 94.5,
+          "publicTransportAccess": true,
+          "parks": 3,
+          "schools": 5,
+          "petFriendly": true,
+          "walkable": "Medium",
+          "averageRent": 32000,
+          "averageHomePrice": 9500000
+        },
+        {
+          "name": "Velachery",
+          "type": "Urban",
+          "population": 420000,
+          "violentCrimes": 105,
+          "rateOfViolentCrimes": 11.8,
+          "chargesheetingRate": 95.5,
+          "publicTransportAccess": true,
+          "parks": 4,
+          "schools": 6,
+          "petFriendly": true,
+          "walkable": "Medium",
+          "averageRent": 28000,
+          "averageHomePrice": 8500000
+        }
+      ]
+    },
+    {
+      "city": "Delhi City",
+      "localities": [
+        {
+          "name": "Hauz Khas",
+          "type": "Urban",
+          "population": 450000,
+          "violentCrimes": 850,
+          "rateOfViolentCrimes": 65.0,
+          "chargesheetingRate": 55.0,
+          "publicTransportAccess": true,
+          "parks": 5,
+          "schools": 7,
+          "petFriendly": true,
+          "walkable": "High",
+          "averageRent": 60000,
+          "averageHomePrice": 22000000
+        },
+        {
+          "name": "Rohini",
+          "type": "Urban",
+          "population": 520000,
+          "violentCrimes": 750,
+          "rateOfViolentCrimes": 70.0,
+          "chargesheetingRate": 53.5,
+          "publicTransportAccess": true,
+          "parks": 4,
+          "schools": 6,
+          "petFriendly": true,
+          "walkable": "Medium",
+          "averageRent": 48000,
+          "averageHomePrice": 18000000
+        }
+      ]
+    },
+    {
+      "city": "Hyderabad (Telangana)",
+      "localities": [
+        {
+          "name": "Banjara Hills",
+          "type": "Urban",
+          "population": 280000,
+          "violentCrimes": 85,
+          "rateOfViolentCrimes": 16.5,
+          "chargesheetingRate": 63.5,
+          "publicTransportAccess": true,
+          "parks": 3,
+          "schools": 5,
+          "petFriendly": true,
+          "walkable": "Medium",
+          "averageRent": 38000,
+          "averageHomePrice": 11000000
+        },
+        {
+          "name": "Miyapur",
+          "type": "Urban",
+          "population": 320000,
+          "violentCrimes": 95,
+          "rateOfViolentCrimes": 17.8,
+          "chargesheetingRate": 60.5,
+          "publicTransportAccess": true,
+          "parks": 2,
+          "schools": 4,
+          "petFriendly": true,
+          "walkable": "Medium",
+          "averageRent": 32000,
+          "averageHomePrice": 9000000
+        }
+      ]
+    },
+    {
+      "city": "Indore (Madhya Pradesh)",
+      "localities": [
+        {
+          "name": "Vijay Nagar",
+          "type": "Urban",
+          "population": 180000,
+          "violentCrimes": 180,
+          "rateOfViolentCrimes": 58.0,
+          "chargesheetingRate": 56.5,
+          "publicTransportAccess": false,
+          "parks": 1,
+          "schools": 3,
+          "petFriendly": false,
+          "walkable": "Low",
+          "averageRent": 22000,
+          "averageHomePrice": 6500000
+        },
+        {
+          "name": "Rajwada",
+          "type": "Urban",
+          "population": 160000,
+          "violentCrimes": 200,
+          "rateOfViolentCrimes": 62.0,
+          "chargesheetingRate": 54.0,
+          "publicTransportAccess": false,
+          "parks": 1,
+          "schools": 2,
+          "petFriendly": false,
+          "walkable": "Low",
+          "averageRent": 18000,
+          "averageHomePrice": 5500000
+        }
+      ]
+    },
+    {
+      "city": "Kolkata (West Bengal)",
+      "localities": [
+        {
+          "name": "Salt Lake",
+          "type": "Urban",
+          "population": 380000,
+          "violentCrimes": 85,
+          "rateOfViolentCrimes": 7.2,
+          "chargesheetingRate": 82.0,
+          "publicTransportAccess": true,
+          "parks": 4,
+          "schools": 5,
+          "petFriendly": true,
+          "walkable": "Medium",
+          "averageRent": 32000,
+          "averageHomePrice": 9500000
+        },
+        {
+          "name": "Garia",
+          "type": "Urban",
+          "population": 420000,
+          "violentCrimes": 95,
+          "rateOfViolentCrimes": 7.8,
+          "chargesheetingRate": 81.0,
+          "publicTransportAccess": true,
+          "parks": 3,
+          "schools": 4,
+          "petFriendly": true,
+          "walkable": "Medium",
+          "averageRent": 28000,
+          "averageHomePrice": 8500000
+        }
+      ]
+    },
+    {
+      "city": "Patna (Bihar)",
+      "localities": [
+        {
+          "name": "Boring Road",
+          "type": "Urban",
+          "population": 120000,
+          "violentCrimes": 220,
+          "rateOfViolentCrimes": 89.0,
+          "chargesheetingRate": 94.0,
+          "publicTransportAccess": false,
+          "parks": 1,
+          "schools": 3,
+          "petFriendly": false,
+          "walkable": "Low",
+          "averageRent": 20000,
+          "averageHomePrice": 5500000
+        },
+        {
+          "name": "Kankarbagh",
+          "type": "Urban",
+          "population": 140000,
+          "violentCrimes": 240,
+          "rateOfViolentCrimes": 93.0,
+          "chargesheetingRate": 93.2,
+          "publicTransportAccess": false,
+          "parks": 1,
+          "schools": 2,
+          "petFriendly": false,
+          "walkable": "Low",
+          "averageRent": 16000,
+          "averageHomePrice": 4500000
+        }
+      ]
+    },
+    {
+      "city": "Chandigarh (Chandigarh)",
+      "localities": [
+        {
+          "name": "Sector 17",
+          "type": "Urban",
+          "population": 180000,
+          "violentCrimes": 120,
+          "rateOfViolentCrimes": 103.0,
+          "chargesheetingRate": 86.0,
+          "publicTransportAccess": true,
+          "parks": 3,
+          "schools": 5,
+          "petFriendly": true,
+          "walkable": "High",
+          "averageRent": 28000,
+          "averageHomePrice": 8500000
+        },
+        {
+          "name": "Manimajra",
+          "type": "Urban",
+          "population": 160000,
+          "violentCrimes": 140,
+          "rateOfViolentCrimes": 107.0,
+          "chargesheetingRate": 84.0,
+          "publicTransportAccess": true,
+          "parks": 2,
+          "schools": 4,
+          "petFriendly": true,
+          "walkable": "Medium",
+          "averageRent": 22000,
+          "averageHomePrice": 7500000
+        }
+      ]
+    },
+    {
+      "city": "Amritsar (Punjab)",
+      "localities": [
+        {
+          "name": "Ranjit Avenue",
+          "type": "Urban",
+          "population": 140000,
+          "violentCrimes": 160,
+          "rateOfViolentCrimes": 108.0,
+          "chargesheetingRate": 76.0,
+          "publicTransportAccess": false,
+          "parks": 2,
+          "schools": 3,
+          "petFriendly": false,
+          "walkable": "Medium",
+          "averageRent": 22000,
+          "averageHomePrice": 6500000
+        },
+        {
+          "name": "Putligarh",
+          "type": "Urban",
+          "population": 120000,
+          "violentCrimes": 180,
+          "rateOfViolentCrimes": 112.0,
+          "chargesheetingRate": 74.0,
+          "publicTransportAccess": false,
+          "parks": 1,
+          "schools": 2,
+          "petFriendly": false,
+          "walkable": "Low",
+          "averageRent": 18000,
+          "averageHomePrice": 5500000
+        }
+      ]
+    }
+  ]
+} 
